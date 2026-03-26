@@ -2,7 +2,6 @@
 
 **Student Name:** Abhishek Kumar Singh  
 **Registration Number:** 25BCE11273
-
 **Branch:** B.Tech Computer Science Engineering (Core)  
 **Course:** CSE0001 Digital Literacy 
 
