@@ -23,7 +23,7 @@ A one-page visual resource designed to help college students understand what dig
 ### Task 2: Build Your Student Digital Portfolio
 Establishing a foundational professional digital footprint. This task includes the setup of my academic and developer profiles across key platforms.
 - **Folder:** `task-2-portfolio/` 
-- **Platforms:** GitHub, LinkedIn, Stack Overflow
+- **Platforms:** GitHub, LinkedIn, Kaggle
 
 ### Task 3: Explore Coding & Collaboration Platforms
 Familiarization with online tools for studying, practicing, and collaborating. This includes completing an introductory Python coding challenge on HackerRank and building a data-collection quiz.
