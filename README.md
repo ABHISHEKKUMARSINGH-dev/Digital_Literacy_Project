@@ -1,10 +1,9 @@
 # CSE0001 - Digital Literacy Project Portfolio
 
 **Student Name:** Abhishek Kumar Singh  
-**Registration Number:** 25BCE11273 
+**Registration Number:** 25BCE11273
 **Branch:** B.Tech Computer Science Engineering (Core)  
-**Year:** First Year  
-**Institution:** VIT Bhopal  
+**Course:** CSE0001 Digital Literacy 
 
 ---
 
